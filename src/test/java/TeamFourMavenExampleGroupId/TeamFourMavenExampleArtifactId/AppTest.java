@@ -52,5 +52,7 @@ public class AppTest
     
     public int gitHubMethod(){}
     
+    public static void newOne() {}
+    
 
 }
