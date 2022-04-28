@@ -35,4 +35,10 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    //adding new method from Eclipse- shiva changes
+    
+    public static void addOneMethod() {
+    	
+    }
 }
