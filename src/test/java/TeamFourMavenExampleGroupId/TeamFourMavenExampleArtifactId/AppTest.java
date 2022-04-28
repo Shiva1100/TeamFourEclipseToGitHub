@@ -50,5 +50,7 @@ public class AppTest
 
     // adding one more method from Eclipse Shiva Changes 
     
+    public int gitHubMethod(){}
+    
 
 }
